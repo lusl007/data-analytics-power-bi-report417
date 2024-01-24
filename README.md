@@ -386,7 +386,7 @@ You want users to be able to see each store's year-to-date profit performance ag
 # SQL Metrics for Users Outside the Company
 
 ## Questions and Queries
-1. How many staff are there in all of the UK stores? > [question_1.sql](hhttps://github.com/lusl007/data-analytics-power-bi-report417/blob/main/SQL%20Queries/question_1.sql)
+1. How many staff are there in all of the UK stores? > [question_1.sql](https://github.com/lusl007/data-analytics-power-bi-report417/blob/main/SQL%20Queries/question_1.sql)
 2. Which month in 2022 has had the highest revenue? > [question_2.sql](https://github.com/lusl007/data-analytics-power-bi-report417/blob/main/SQL%20Queries/question_2.sql)
 3. Which German store type had the highest revenue for 2022? > [question_3.sql](https://github.com/lusl007/data-analytics-power-bi-report417/blob/main/SQL%20Queries/question_3.sql)
 4. Create a view where the rows are the store types and the columns are the total sales, percentage of total sales and the count of orders > TBD
