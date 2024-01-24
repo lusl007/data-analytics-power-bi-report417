@@ -28,12 +28,12 @@ The report will present a high-level business summary tailored for C-suite execu
 
 
 # Installation and Usage
-Clone the repository:
-    ```bash
-    git clone https://github.com/lusl007/data-analytics-power-bi-report417.git
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/lusl007/data-analytics-power-bi-report417.git
 
-Open the Power BI file `Power_BI_Project_AiCore.pbix` in Power BI Desktop.
-Follow the README steps.
+2. Open the Power BI file `Power_BI_Project_AiCore.pbix` in Power BI Desktop.
+3. Follow the README steps.
 
 
 # Importing Data/Tables
