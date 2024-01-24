@@ -81,3 +81,12 @@ Connect to the Azure SQL Database and import the orders_powerbi table using the 
 3. Once the data are loaded into Power BI, create a Full Name column by combining the [First Name] and [Last Name] columns
 
 4. Delete any obviously unused columns (eg. index columns) and rename the remaining columns to align with Power BI naming conventions
+
+
+## Star Schema
+1. Relationships between tables:
+    - Orders[product_code] to Products[product_code]
+    - Orders[Store Code] to Stores[store code]
+    - Orders[User ID] to Customers[User UUID]
+    - Orders[Order Date] to Date[date]
+    - Orders[Shipping Date] to Date[date]
